@@ -1,0 +1,22 @@
+# Environment & secrets
+.env
+*.env
+.env.*
+secrets.json
+
+# Database & logs
+trade_logs.db
+*.log
+logs/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
